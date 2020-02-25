@@ -1,9 +1,9 @@
 a = 10
 b = 9
 
-a + b
-a - b
-a * b
+c = a + b
+m = a - b
+q = a * b
 
-puts a, b
+puts c, q, m
 
