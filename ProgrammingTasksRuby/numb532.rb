@@ -12,7 +12,7 @@ def task532(n)
       p mas[j]
       j -= 1
     end
-  end
-end
+    end
+ end
 
 task532(6)
